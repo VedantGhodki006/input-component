@@ -3,7 +3,7 @@ import App from "./components/inputbox";
 
 export default function Home() {
   return (
-    <div>
+    <div className="flex items-center justify-center min-h-screen bg-gray-50">
       <App />
     </div>
   );
